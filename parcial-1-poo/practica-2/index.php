@@ -1,5 +1,4 @@
 <?php
-
 // Se incluye el archivo donde está definida la clase Admin
 require_once "Admin.php";
 
@@ -15,5 +14,4 @@ $rolAdmin = $objAdmin->getRol();
 echo "Nombre: $nombreAdmin<br>";
 echo "Correo: $correoAdmin<br>";
 echo "Rol: $rolAdmin";
-
 ?>
