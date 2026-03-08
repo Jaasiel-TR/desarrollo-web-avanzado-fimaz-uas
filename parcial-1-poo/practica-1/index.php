@@ -1,11 +1,17 @@
 <?php
+
+// Se incluye el archivo donde está la clase Usuario
 require_once "Usuario.php";
 
-$usuario = new Usuario("Jaasiel Efrain Torrero Rojo", "jasieltorrero6@gmail.com");
+// Se crea un objeto Usuario con nombre y correo
+$objUsuario = new Usuario("Jaasiel Efrain Torrero Rojo", "jasieltorrero6@gmail.com");
 
-echo "Nombre: " .
-$usuario->getNombre() . "<br>";
-echo "Correo: " .
-$usuario->getCorreo();
+// Se obtienen los datos del usuario
+$nombre = $objUsuario->getNombre();
+$correo = $objUsuario->getCorreo();
+
+// Se muestran los datos en la página
+echo "Nombre: $nombre<br>";
+echo "Correo: $correo<br>";
 
 ?>
