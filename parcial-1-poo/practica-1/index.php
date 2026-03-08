@@ -1,5 +1,4 @@
 <?php
-
 // Se incluye el archivo donde está la clase Usuario
 require_once "Usuario.php";
 
