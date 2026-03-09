@@ -25,4 +25,3 @@ http://localhost/desarrollo-web-avanzado-fimaz-uas/parcial-1-poo/practica-2/inde
 
 ## Resultado esperado
 ![a practica-2](practica-2.png)
-
