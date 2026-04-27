@@ -1,4 +1,4 @@
-# Practica 1 - Examen Parcial Unidad 2: PDO
+# Examen-practico- Examen Parcial Unidad 2: PDO
 
 ## Objetivo de la practica
 El propósito de este ejercicio es que el estudiante comprenda no solo cómo funciona un CRUD con PHP-
