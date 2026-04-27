@@ -24,4 +24,4 @@ getRol() → retorna "Administrador"
 http://localhost/desarrollo-web-avanzado-fimaz-uas/parcial-1-poo/practica-2/index.php
 
 ## Resultado esperado
-![a practica-2](practica-2.png)
+![practica-2.png](practica-2.png)
