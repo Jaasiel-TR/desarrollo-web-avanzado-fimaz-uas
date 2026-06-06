@@ -16,7 +16,7 @@ class Usuario{
     public function setNombre($nombre){
         return $this->nombre = $nombre;
     }
-    public function setNorreo($correo){
+    public function setCorreo($correo){
         return $this->correo = $correo;
     }
 }
